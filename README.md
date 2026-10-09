@@ -7,7 +7,7 @@ PulseOps is a complete full-stack internship prototype for synthetic API monitor
 - Professional responsive React dashboard
 - JWT login with Admin and Developer roles
 - Service registration and deletion
-- Automatic background monitoring every 20 seconds
+- Automatic background monitoring every 20 sec
 - Manual health checks
 - Health states: Healthy / Warning / Critical / Down
 - Response-time and HTTP-status tracking
